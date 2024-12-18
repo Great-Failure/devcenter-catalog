@@ -1,5 +1,5 @@
-name: Sandbox
-summary: Sandbox environment
-description: Deploys a sandbox environment
+name: Devcontainer
+summary: Devcontainer environment
+description: Deploys a devcontainer environment
 runner: ARM
 templatePath: azuredeploy.json
